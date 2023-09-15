@@ -1,0 +1,66 @@
+Server Count: 14
+Connected Servers:
+- - - - - - - - - 
+
+~Priority Servers:
+- - - - - - - - - 
+S-Name: "SlimeLabs"
+S-ID: 721558492250636317
+S-Users: 183
+
+S-Name: "FlyingWienerServer"
+S-ID: 949883650873372672
+S-Users: 14
+
+S-Name: "Yeetoxic's lil testin server"
+S-ID: 961720228193140837
+S-Users: 4
+
+
+
+~Regular Servers:
+- - - - - - - - - 
+S-Name: "turtle"
+S-ID: 513561335569842176
+S-Users: 2
+
+S-Name: "The Lads Hardcore"
+S-ID: 706214605386416231
+S-Users: 7
+
+S-Name: "Abnormal Paradise"
+S-ID: 726018551676403813
+S-Users: 11
+
+S-Name: "Church of Bob"
+S-ID: 728488512181239810
+S-Users: 6
+
+S-Name: "Teal's server"
+S-ID: 855750836919730196
+S-Users: 11
+
+S-Name: "The Lounge"
+S-ID: 865105933703970857
+S-Users: 5
+
+S-Name: "Sf D saac"
+S-ID: 897940871406825542
+S-Users: 5
+
+S-Name: "Wanna Stab Friends"
+S-ID: 947937209066070077
+S-Users: 284
+
+S-Name: "ROCK AND STONE"
+S-ID: 966172316730007652
+S-Users: 15
+
+S-Name: "team nova_"
+S-ID: 969265385595604992
+S-Users: 7
+
+S-Name: "1.9+ Tier List Community"
+S-ID: 992887530821271623
+S-Users: 611
+

@@ -1,0 +1,19 @@
+**FlyingWienerBot 4.0** // ***ChangeLog***
+`>UPDATE: v4.1.0 - Uberhaul Update`
+(*Update Type:* BUGFIX UPDATE)
+- - - - - - - - - - - - - - - - - - - - - - -
+**Additions/BugFixes**
+`[+]` Made Small updates to FWOS4 (Wiener 23)!
+`[+]` Upgraded information shown in the "bstats" cmd!
+-------------------------------------
+**Plans/Indev Features**
+`[~]` FWB Music - Adding full support for music playing from either Youtube or Spotify (Currently undecided)
+`[~]` GOAL: Get FWB Verified by end of ~~2022~~ ~~2023~~ 2024!
+-------------------------------------
+**Removals/Known Bugs & Problems**
+`[-]` Removed bot invite section of the changelog
+`[-]` "img" cmd currently broken, working on a fix!
+-------------------------------------
+**Upcoming Updates** 
+`[v4.1]` "Vibes" Update - Adding Suppport for FlyingWienerTunes within FWB!
+-------------------------------------
